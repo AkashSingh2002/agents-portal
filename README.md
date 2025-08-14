@@ -17,15 +17,15 @@ A simple web application that allows agents to log in and access a chat interfac
 *Secure login interface with test account credentials*
 
 ### Dashboard
-![Dashboard](client\public\Screenshot-363.png)
+![Dashboard](client/public/Screenshot-363.png)
 *Main dashboard with sidebar navigation and chat interface*
 
 ### Chat Interface
-![Chat Interface](client\public\Screenshot-362.png)
+![Chat Interface](client/public/Screenshot-362.png)
 *AI assistant chat with sample payroll query*
 
 ### Profile View
-![Profile](client\public\Screenshot-361.png)
+![Profile](client/public/Screenshot-361.png)
 *User profile information and account details*
 
 ## Technology Stack
